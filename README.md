@@ -1,4 +1,4 @@
-# dice_app
+# die_app
 
-A simple Flutter project that rolls a die.
+A simple Flutter project that rolls a dice.
 
